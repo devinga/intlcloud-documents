@@ -31,4 +31,4 @@ If you're new to Tencent Cloud CVM, please refer to [Quick start for Windows CVM
 
 ## Pricing of CVM
 
-For pricing details of CVMs, see [here](https://intl.cloud.tencent.com/document/product/213/30011).
+For pricing details of CVMs, see [here](https://intl.cloud.tencent.com/document/product/213/30011). 

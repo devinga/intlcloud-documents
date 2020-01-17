@@ -116,7 +116,6 @@
 
 4. 右键单击，选择【Initialize Disk】：
 
-   ![image-20181010143401964](快速入门Windows云服务器_intl_cn.assets/image-20181010143401964.png)
 
 
 根据分区方式的不同，选择【GPT】或【MBR】，单击【OK】按钮：
@@ -143,7 +142,7 @@
 
 4. 输入驱动器号，单击【Next】：
 
-   ![image-20181010144206060](快速入门Windows云服务器_intl_cn.assets/image-20181010144206060.png)
+  
 
 5. 选择文件系统，格式化分区，单击【Next】：
 
